@@ -1,2 +1,7 @@
-# DiscordGIF_Grabber
-"i got tired of the sun so i thought of the fastest way to make god cry."
+#WASSUP LOGANGERS IT'S YA BOI MCF BACK AT IT AGAIN
+
+#What does it do?
+Grabs a user's saved GIFs.
+
+#Why?
+Im bored.
